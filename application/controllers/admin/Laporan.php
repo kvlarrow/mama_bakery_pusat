@@ -40,7 +40,7 @@ class Laporan extends CI_Controller {
         $data['logo'] = base_url('assets/img/logo-mama-bakery.png');
         $data['info'] = [
             'nama' => 'Mama Bakery',
-            'alamat' => 'Bandara Internasional Kalimarau Berau',
+            'alamat' => 'Jl.Durian 1 no 37 Mama bakery samping gedung badminton',
             'telp' => '081347576996, 08115441993',
             'ig' => 'mamabakery_berau'
         ];

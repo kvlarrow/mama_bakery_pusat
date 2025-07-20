@@ -32,7 +32,7 @@ class Kasir extends CI_Controller {
         $html = '\
             <div class="text-center p-4">
                 <h3 class="logo">Mama Bakery</h3>
-                <p>Jl. Contoh No. 123, Kota</p>
+                <p>Jl.Durian 1 no 37 Mama bakery samping gedung badminton</p>
                 <p>'.date('d/m/Y H:i:s').'</p>
                 <hr>
                 <div class="text-start">';

@@ -61,7 +61,7 @@
     <div class="display-container text-center">
         <img src="<?= base_url('assets/img/logo-mama-bakery.png') ?>" class="logo" alt="Logo Mama Bakery">
         <div class="toko">Mama Bakery & Cafe</div>
-        <div class="alamat">Bandara Kalimarau Tlk. Bayur, Kec. Tlk. Bayur,<br>Kabupaten Berau, Kalimantan Timur</div>
+        <div class="alamat">Jl.Durian 1 no 37 Mama bakery samping gedung badminton</div>
         <table class="table table-items table-borderless w-100 mb-2">
             <thead>
                 <tr>

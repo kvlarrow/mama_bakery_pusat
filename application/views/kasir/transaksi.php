@@ -95,7 +95,7 @@
                 <div style="text-align:center;">
                   <img src="<?= base_url('assets/img/logo-mama-bakery-grayscale.png') ?>" alt="Logo Mama Bakery" style="width:120px; max-width:100%; margin-bottom:4px; background:#fff; padding:2px; border-radius:6px; filter: brightness(1.2) drop-shadow(0 0 2px #fff);">
                   <div style="font-size:1.1em;font-weight:bold;">Mama Modern Bakery & Cafe</div>
-                  <div style="font-size:0.95em;">Bandara Internasional Kalimarau Berau</div>
+                  <div style="font-size:0.95em;">Jl.Durian 1 no 37 Mama bakery samping gedung badminton</div>
                   <div style="font-size:0.95em;">Telp: 081347576996, 08115441993</div>
                   <div style="font-size:0.95em;">IG: mamabakery_berau</div>
                   <hr style="margin:6px 0;">
